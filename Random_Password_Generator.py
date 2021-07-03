@@ -1,3 +1,8 @@
+# It is 07/02/2021 - I created this code very, very early on in my Python learning.
+# Most of this code is from other people - sorry - and it doesn't even really work how I want it.
+# All code from this script on is written completely 100% by me.
+# I'm keepeing this up just to show where I was at
+
 import random
 import array
 
