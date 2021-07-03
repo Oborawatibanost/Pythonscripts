@@ -39,6 +39,8 @@ elif (score == "No"):
 	print(message3)
 else:
 	print(message4)
+	
+#It is 07/02/2021, and I'm realizing this code makes no sense lol. I love learning!
 
 
 
